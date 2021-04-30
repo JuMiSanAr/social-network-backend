@@ -6,7 +6,7 @@ Includes:
 - Posts (liking, sharing, commenting and adding images supported).
 - Friends.
 
-Developed in python.
+Developed in python, using Django REST framework.
 
 dependencies:
   - python=3.9
